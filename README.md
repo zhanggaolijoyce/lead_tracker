@@ -1,21 +1,5 @@
-# coc8640b4ab7ea074c56f6bdc
+I finish this small project under Scrimba(https://scrimba.com/playlist/pPD7Kt4)
 
-Quick start:
+It is a Google Chrome extension. It can help you save URLs from input or from current website tab to the local storage. So if you refresh the website or even open another browser, the URLs will remain in this extension window. Of course, you can delete these URLs manually. It can be used in e-commerce platforms, like you can save some shops which sell the same item, then compare the prices among them. Or you can also use it in job-hunting platforms, like LinkedIn, to store some people's pages whom you want to make connections with later.
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+I practiced my javascript skills through this project, especially for (1)function implementation after clicking a button, (2)template strings, (3)the use of localStorage. 
